@@ -1,0 +1,19 @@
+{
+  "name": "gulp_st",
+  "version": "1.0.0",
+  "description": "Starter Gulp template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManGo-WEB/gulp_st.git"
+  },
+  "author": "MGW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManGo-WEB/gulp_st/issues"
+  },
+  "homepage": "https://github.com/ManGo-WEB/gulp_st#readme"
+}
