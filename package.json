@@ -1,34 +1,34 @@
 {
-  "name": "gulp_st",
-  "version": "1.0.0",
-  "description": "Starter Gulp template",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ManGo-WEB/gulp_st.git"
-  },
-  "author": "MGW",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ManGo-WEB/gulp_st/issues"
-  },
-  "homepage": "https://github.com/ManGo-WEB/gulp_st#readme",
-  "devDependencies": {
-    "autoprefixer": "^10.4.8",
-    "browser-sync": "^2.27.10",
-    "del": "^7.0.0",
-    "gulp": "^4.0.2",
-    "gulp-clean-css": "^4.3.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-imagemin": "^8.0.0",
-    "gulp-notify": "^4.0.0",
-    "gulp-rename": "^2.0.0",
-    "gulp-sass": "^5.1.0",
-    "gulp-uglify": "^3.0.2",
-    "vinyl-ftp": "^0.6.1"
-  },
-  "dependencies": {}
+	"name": "gulp_st",
+	"version": "1.0.0",
+	"description": "Starter Gulp template",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ManGo-WEB/gulp_st.git"
+	},
+	"author": "MGW",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ManGo-WEB/gulp_st/issues"
+	},
+	"homepage": "https://github.com/ManGo-WEB/gulp_st#readme",
+	"devDependencies": {
+		"browser-sync": "^2.27.10",
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^8.0.0",
+		"gulp-cssbeautify": "^3.0.1",
+		"gulp-cssnano": "^2.1.3",
+		"gulp-imagemin": "^8.0.0",
+		"gulp-plumber": "^1.2.1",
+		"gulp-rename": "^2.0.0",
+		"gulp-rigger": "^0.5.8",
+		"gulp-sass": "^5.1.0",
+		"gulp-strip-css-comments": "^2.0.0",
+		"gulp-uglify": "^3.0.2",
+		"gulp-watch": "^5.0.1",
+		"rimraf": "^3.0.2",
+		"run-sequence": "^2.2.1"
+	},
+	"dependencies": {}
 }
